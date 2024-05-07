@@ -1,0 +1,10 @@
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\bin\Debug\№3.exe.config
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\bin\Debug\№3.exe
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\bin\Debug\№3.pdb
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\№3.csproj.AssemblyReference.cache
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\_3.Form1.resources
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\_3.Properties.Resources.resources
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\№3.csproj.GenerateResource.cache
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\№3.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\№3.exe
+D:\Документы\VS projects\Алгоритмизация\Коллекции\ид16\№3\obj\Debug\№3.pdb
